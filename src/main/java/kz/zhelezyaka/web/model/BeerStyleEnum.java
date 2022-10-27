@@ -1,2 +1,14 @@
-package kz.zhelezyaka.web.model;public class BeerStyleEnum {
+package kz.zhelezyaka.web.model;
+
+public enum BeerStyleEnum {
+    LAGER,
+    PILSNER,
+    STOUT,
+    GOSE,
+    PORTER,
+    ALE,
+    WHEAT,
+    IPA,
+    PALE_ALE,
+    SAISON
 }
